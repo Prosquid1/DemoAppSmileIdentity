@@ -39,5 +39,6 @@ Add `${PROJECT_DIR}/../` as a Framework Header Search path.
 ## Authors
 
 * **Oyeleke Okiki** - *Initial work* - [Yeet!](https://github.com/prosquid1)
+* **OJ** - *Initial work* - [OJ!](mailto:oj@piggyvest.com)
 
 
