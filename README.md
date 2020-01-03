@@ -18,11 +18,15 @@ Build and run! :)
 Navigate to the ios subdirectory (Take note of the iOS path e.g "Users/Prosquid/..../DemoSmileAppIdentity/ios")
 Run pod install.
 Add the SmileIdentity framework to the root (in Step 1) of the project (Select Copy Files when adding )
+
+```
 Go to Project > Targets > Frameworks/ Libraries/Embedded content
 Ensure the Smile Identity Framework has "Embed and Sign" option selected.
+https://user-images.githubusercontent.com/13585693/71705875-d99c1d80-2de1-11ea-9366-330d71aba978.png
+```
 
 Navigate to the "react-native-smile-identity" Add the iOS path (in Step 1) as a Framework Header Search path.
-
+```
 Voila!
 
 
