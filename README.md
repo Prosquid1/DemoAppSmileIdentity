@@ -14,8 +14,8 @@ Build and run! :)
 ```
 ## iOS Setup:
 
-### - Navigate to the ios subdirectory
-### - Run pod install.
+#### -  Navigate to the ios subdirectory
+#### -  Run pod install.
 ```
 Add the SmileIdentity framework as shown below.
 ```
