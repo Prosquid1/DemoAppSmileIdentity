@@ -13,9 +13,10 @@ Follow the instructions on https://developer.android.com/studio/projects/android
 Build and run! :)
 ```
 ## iOS Setup:
+
+### - Navigate to the ios subdirectory
+### - Run pod install.
 ```
-Navigate to the ios subdirectory
-Run pod install.
 Add the SmileIdentity framework as shown below.
 ```
 ![alt text](https://user-images.githubusercontent.com/13585693/71706727-0bfc4980-2de7-11ea-81d0-38d0164f6574.png "Adding Framework")
