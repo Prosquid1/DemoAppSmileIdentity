@@ -1,11 +1,13 @@
 # DemoAppSmileIdentity
 Demo React Native app for the Smile Identity cross-platform Library
 
-React Setup (Important)
+##React Setup (Important)
+```
 Run `npm i` to install dependencies
 This must be done before any other setup.
 
 Android Setup:
+```
 Navigate to the android subdirectory
 Open the project on Android studio
 Follow the instructions on https://developer.android.com/studio/projects/android-library#AddDependency to import the Smile Identity Library provided by the official website.
