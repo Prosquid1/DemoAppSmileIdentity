@@ -3,9 +3,9 @@ Demo React Native app for the Smile Identity cross-platform Library
 
 ## React Setup (Important)
 ```
-Run `npm i` to install dependencies
+Run `npm i` to install dependencies ### This must be done before any other setup.
 ```
-### This must be done before any other setup.
+
 
 ```
 ## Android Setup:
