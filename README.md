@@ -9,6 +9,7 @@ Run `npm i` to install dependencies. This must be done before any other setup.
 ```
 * Navigate to the android subdirectory
 * Open the project on Android studio
+```
 * Follow the instructions on [the Official Guide](https://developer.android.com/studio/projects/android-library#AddDependency) how to import the Smile Identity Library provided by the official website.
 Build and run! :)
 ```
@@ -39,6 +40,6 @@ Add `${PROJECT_DIR}/../` as a Framework Header Search path.
 ## Authors
 
 * **Oyeleke Okiki** - *Initial work* - [Yeet!](https://github.com/prosquid1)
-* **OJ** - *Initial work* - [OJ!](mailto:oj@piggyvest.com)
+* [OJ!](mailto:oj@piggyvest.com)
 
 
