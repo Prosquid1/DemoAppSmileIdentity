@@ -9,7 +9,7 @@ Run `npm i` to install dependencies. This must be done before any other setup.
 ```
 Navigate to the android subdirectory
 Open the project on Android studio
-Follow the instructions on https://developer.android.com/studio/projects/android-library#AddDependency to import the Smile Identity Library provided by the official website.
+Follow the instructions on [the Official Guide](https://developer.android.com/studio/projects/android-library#AddDependency) how to import the Smile Identity Library provided by the official website.
 Build and run! :)
 ```
 ## iOS Setup:
@@ -32,7 +32,8 @@ Ensure the Smile Identity Framework has "Embed and Sign" option selected.
 Add `${PROJECT_DIR}/../` as a Framework Header Search path.
 ```
 ![alt text](https://user-images.githubusercontent.com/13585693/71706726-0bfc4980-2de7-11ea-9030-6361353b3fc0.png "Embedding Framework")
-Voila!
+
+##Voila!
 
 
 
