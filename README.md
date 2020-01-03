@@ -32,12 +32,12 @@ Add `${PROJECT_DIR}/../` as a Framework Header Search path.
 ```
 ![alt text](https://user-images.githubusercontent.com/13585693/71706726-0bfc4980-2de7-11ea-9030-6361353b3fc0.png "Embedding Framework")
 
-##Voila!
+##Voila! 🤝
 
 
 ## Authors
 
-* **Oyeleke Okiki** - *Initial work* - [Yeet!](https://github.com/prosquid1)
+* **Oyeleke Okiki** - [Yeet!](https://github.com/prosquid1)
 * [OJ!](mailto:oj@piggyvest.com)
 
 
